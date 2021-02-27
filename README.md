@@ -23,3 +23,6 @@ Well, this project put in practice what we have learned during this second modul
         ├── diamonds_train.csv
         └── diamonds_train_mod.csv
 ```
+
+### **The Tableau Dashboard**
+https://public.tableau.com/profile/jos.miguel4960#!/vizhome/IH_Project_1/Dashboard1
